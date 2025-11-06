@@ -82,8 +82,3 @@ client
   .then((result) => console.log(result));
 
 ```
-## Getting Help
-
-This repo is _not regularly monitored_.
-
-For any questions contact https://vizsphere.com/contact/
